@@ -12,4 +12,5 @@ This repository consists of solutions to HackerRank **practice**, **tutorials**,
 [![GitHub repo size](https://img.shields.io/github/repo-size/nathan-abela/HackerRank-Solutions)](https://github.com/nathan-abela/HackerRank-Solutions/archive/master.zip)
 
 ## Personal HackerRank Profile
+[View Profile](https://www.hackerrank.com/profile/shyamambilkar91)
 
